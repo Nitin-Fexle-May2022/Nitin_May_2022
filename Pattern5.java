@@ -1,9 +1,15 @@
 class Pattern5 
 {
 	public static void main(String[] args) 
+
 	{   int variable_1;
 	    int variable_2;
 		int variable_3;
+
+
+	{   
+		int variableA_4;
+		int variableA_5;
 
 		for(int i=0; i<5; i++)
 		{
@@ -17,8 +23,14 @@ class Pattern5
 			}
 			System.out.println();
 		}
+
 		System.out.print("Hello WOrld");
 		System.out.print("This is nitin rajput");
 		System.out.print("Welcome");
+
+		System.out.println("ckldsncvowdovm");
+		System.out.println("cklded[vmkmsncvowdovm");
+		System.out.println("ckldsncvowdvkslnvjnovm");
+
 	}
 }
