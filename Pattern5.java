@@ -20,5 +20,6 @@ class Pattern5
 		System.out.print("Hello WOrld");
 		System.out.print("This is nitin rajput");
 		System.out.print("Welcome");
+		//This is a Pattern program
 	}
 }
