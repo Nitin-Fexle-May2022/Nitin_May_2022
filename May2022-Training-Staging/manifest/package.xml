@@ -6,11 +6,11 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>Demo__c</members>
+        <members>*</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Demo__c.First_Field__c</members>
+        <members>*</members>
         <name>CustomField</name>
     </types>
     <version>54.0</version>
