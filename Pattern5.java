@@ -28,9 +28,10 @@ class Pattern5
 		System.out.print("This is nitin rajput");
 		System.out.print("Welcome");
 
+		//This is a Pattern program
+
 		System.out.println("ckldsncvowdovm");
 		System.out.println("cklded[vmkmsncvowdovm");
 		System.out.println("ckldsncvowdvkslnvjnovm");
-
 	}
 }
